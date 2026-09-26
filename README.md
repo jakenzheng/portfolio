@@ -1,14 +1,5 @@
 # Jake Zheng portfolio
-
-This is a dependency-free static site. No install or build step is required.
-
-## Preview locally
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
+This is my personal portfolio
 
 ## Publish from GitHub
 
